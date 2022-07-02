@@ -1,0 +1,47 @@
+[
+{
+  "directory": "/home/ader/Pulpit/Po_Zad3/PO_Zad3/build",
+  "command": "/usr/bin/c++ -DENABLE_DOCTEST_IN_LIBRARY -I/home/ader/Pulpit/Po_Zad3/PO_Zad3/build -I/home/ader/Pulpit/Po_Zad3/PO_Zad3/include -I/home/ader/Pulpit/Po_Zad3/PO_Zad3/external/doctest/doctest -g -Wall -Wextra -Wpedantic -Wno-switch-enum -Werror -std=c++17 -o CMakeFiles/main.dir/app/main.cpp.o -c /home/ader/Pulpit/Po_Zad3/PO_Zad3/app/main.cpp",
+  "file": "/home/ader/Pulpit/Po_Zad3/PO_Zad3/app/main.cpp"
+},
+{
+  "directory": "/home/ader/Pulpit/Po_Zad3/PO_Zad3/build",
+  "command": "/usr/bin/c++ -DENABLE_DOCTEST_IN_LIBRARY -I/home/ader/Pulpit/Po_Zad3/PO_Zad3/build -I/home/ader/Pulpit/Po_Zad3/PO_Zad3/include -I/home/ader/Pulpit/Po_Zad3/PO_Zad3/external/doctest/doctest -g -Wall -Wextra -Wpedantic -Wno-switch-enum -Werror -std=c++17 -o CMakeFiles/program.dir/src/lacze_do_gnuplota.cpp.o -c /home/ader/Pulpit/Po_Zad3/PO_Zad3/src/lacze_do_gnuplota.cpp",
+  "file": "/home/ader/Pulpit/Po_Zad3/PO_Zad3/src/lacze_do_gnuplota.cpp"
+},
+{
+  "directory": "/home/ader/Pulpit/Po_Zad3/PO_Zad3/build",
+  "command": "/usr/bin/c++ -DENABLE_DOCTEST_IN_LIBRARY -I/home/ader/Pulpit/Po_Zad3/PO_Zad3/build -I/home/ader/Pulpit/Po_Zad3/PO_Zad3/include -I/home/ader/Pulpit/Po_Zad3/PO_Zad3/external/doctest/doctest -g -Wall -Wextra -Wpedantic -Wno-switch-enum -Werror -std=c++17 -o CMakeFiles/program.dir/src/vector.cpp.o -c /home/ader/Pulpit/Po_Zad3/PO_Zad3/src/vector.cpp",
+  "file": "/home/ader/Pulpit/Po_Zad3/PO_Zad3/src/vector.cpp"
+},
+{
+  "directory": "/home/ader/Pulpit/Po_Zad3/PO_Zad3/build",
+  "command": "/usr/bin/c++ -DENABLE_DOCTEST_IN_LIBRARY -I/home/ader/Pulpit/Po_Zad3/PO_Zad3/build -I/home/ader/Pulpit/Po_Zad3/PO_Zad3/include -I/home/ader/Pulpit/Po_Zad3/PO_Zad3/external/doctest/doctest -g -Wall -Wextra -Wpedantic -Wno-switch-enum -Werror -std=c++17 -o CMakeFiles/program.dir/src/rectangle.cpp.o -c /home/ader/Pulpit/Po_Zad3/PO_Zad3/src/rectangle.cpp",
+  "file": "/home/ader/Pulpit/Po_Zad3/PO_Zad3/src/rectangle.cpp"
+},
+{
+  "directory": "/home/ader/Pulpit/Po_Zad3/PO_Zad3/build",
+  "command": "/usr/bin/c++ -DENABLE_DOCTEST_IN_LIBRARY -I/home/ader/Pulpit/Po_Zad3/PO_Zad3/build -I/home/ader/Pulpit/Po_Zad3/PO_Zad3/include -I/home/ader/Pulpit/Po_Zad3/PO_Zad3/external/doctest/doctest -g -Wall -Wextra -Wpedantic -Wno-switch-enum -Werror -std=c++17 -o CMakeFiles/program.dir/src/matrix.cpp.o -c /home/ader/Pulpit/Po_Zad3/PO_Zad3/src/matrix.cpp",
+  "file": "/home/ader/Pulpit/Po_Zad3/PO_Zad3/src/matrix.cpp"
+},
+{
+  "directory": "/home/ader/Pulpit/Po_Zad3/PO_Zad3/build/tests",
+  "command": "/usr/bin/c++ -DENABLE_DOCTEST_IN_LIBRARY -I/home/ader/Pulpit/Po_Zad3/PO_Zad3/build -I/home/ader/Pulpit/Po_Zad3/PO_Zad3/include -I/home/ader/Pulpit/Po_Zad3/PO_Zad3/external/doctest/doctest -g -Wall -Wextra -Wpedantic -Wno-switch-enum -Werror -std=c++17 -o CMakeFiles/unit_tests.dir/main.cpp.o -c /home/ader/Pulpit/Po_Zad3/PO_Zad3/tests/main.cpp",
+  "file": "/home/ader/Pulpit/Po_Zad3/PO_Zad3/tests/main.cpp"
+},
+{
+  "directory": "/home/ader/Pulpit/Po_Zad3/PO_Zad3/build/tests",
+  "command": "/usr/bin/c++ -DENABLE_DOCTEST_IN_LIBRARY -I/home/ader/Pulpit/Po_Zad3/PO_Zad3/build -I/home/ader/Pulpit/Po_Zad3/PO_Zad3/include -I/home/ader/Pulpit/Po_Zad3/PO_Zad3/external/doctest/doctest -g -Wall -Wextra -Wpedantic -Wno-switch-enum -Werror -std=c++17 -o CMakeFiles/unit_tests.dir/test_rectangle.cpp.o -c /home/ader/Pulpit/Po_Zad3/PO_Zad3/tests/test_rectangle.cpp",
+  "file": "/home/ader/Pulpit/Po_Zad3/PO_Zad3/tests/test_rectangle.cpp"
+},
+{
+  "directory": "/home/ader/Pulpit/Po_Zad3/PO_Zad3/build/tests",
+  "command": "/usr/bin/c++ -DENABLE_DOCTEST_IN_LIBRARY -I/home/ader/Pulpit/Po_Zad3/PO_Zad3/build -I/home/ader/Pulpit/Po_Zad3/PO_Zad3/include -I/home/ader/Pulpit/Po_Zad3/PO_Zad3/external/doctest/doctest -g -Wall -Wextra -Wpedantic -Wno-switch-enum -Werror -std=c++17 -o CMakeFiles/unit_tests.dir/test_vector.cpp.o -c /home/ader/Pulpit/Po_Zad3/PO_Zad3/tests/test_vector.cpp",
+  "file": "/home/ader/Pulpit/Po_Zad3/PO_Zad3/tests/test_vector.cpp"
+},
+{
+  "directory": "/home/ader/Pulpit/Po_Zad3/PO_Zad3/build/tests",
+  "command": "/usr/bin/c++ -DENABLE_DOCTEST_IN_LIBRARY -I/home/ader/Pulpit/Po_Zad3/PO_Zad3/build -I/home/ader/Pulpit/Po_Zad3/PO_Zad3/include -I/home/ader/Pulpit/Po_Zad3/PO_Zad3/external/doctest/doctest -g -Wall -Wextra -Wpedantic -Wno-switch-enum -Werror -std=c++17 -o CMakeFiles/unit_tests.dir/test_matrix.cpp.o -c /home/ader/Pulpit/Po_Zad3/PO_Zad3/tests/test_matrix.cpp",
+  "file": "/home/ader/Pulpit/Po_Zad3/PO_Zad3/tests/test_matrix.cpp"
+}
+]
